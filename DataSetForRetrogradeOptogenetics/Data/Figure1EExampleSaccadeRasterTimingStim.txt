@@ -1,0 +1,61 @@
+Stim	Stim	Stim	Stim	Stim	Stim	Stim						
+-31	166	186	NaN	NaN	NaN	NaN
+52	NaN	NaN	NaN	NaN	NaN	NaN
+33	NaN	NaN	NaN	NaN	NaN	NaN
+57	NaN	NaN	NaN	NaN	NaN	NaN
+47	NaN	NaN	NaN	NaN	NaN	NaN
+53	NaN	NaN	NaN	NaN	NaN	NaN
+31	NaN	NaN	NaN	NaN	NaN	NaN
+43	NaN	NaN	NaN	NaN	NaN	NaN
+34	NaN	NaN	NaN	NaN	NaN	NaN
+52	NaN	NaN	NaN	NaN	NaN	NaN
+65	NaN	NaN	NaN	NaN	NaN	NaN
+-15	NaN	NaN	NaN	NaN	NaN	NaN
+42	NaN	NaN	NaN	NaN	NaN	NaN
+38	NaN	NaN	NaN	NaN	NaN	NaN
+55	NaN	NaN	NaN	NaN	NaN	NaN
+-54	NaN	NaN	NaN	NaN	NaN	NaN
+44	NaN	NaN	NaN	NaN	NaN	NaN
+55	NaN	NaN	NaN	NaN	NaN	NaN
+49	NaN	NaN	NaN	NaN	NaN	NaN
+45	NaN	NaN	NaN	NaN	NaN	NaN
+37	NaN	NaN	NaN	NaN	NaN	NaN
+38	NaN	NaN	NaN	NaN	NaN	NaN
+-46	116	138	NaN	NaN	NaN	NaN
+112	NaN	NaN	NaN	NaN	NaN	NaN
+-50	79	NaN	NaN	NaN	NaN	NaN
+-22	NaN	NaN	NaN	NaN	NaN	NaN
+45	NaN	NaN	NaN	NaN	NaN	NaN
+97	NaN	NaN	NaN	NaN	NaN	NaN
+119	NaN	NaN	NaN	NaN	NaN	NaN
+61	NaN	NaN	NaN	NaN	NaN	NaN
+39	NaN	NaN	NaN	NaN	NaN	NaN
+34	NaN	NaN	NaN	NaN	NaN	NaN
+29	NaN	NaN	NaN	NaN	NaN	NaN
+150	NaN	NaN	NaN	NaN	NaN	NaN
+31	NaN	NaN	NaN	NaN	NaN	NaN
+40	NaN	NaN	NaN	NaN	NaN	NaN
+23	NaN	NaN	NaN	NaN	NaN	NaN
+69	NaN	NaN	NaN	NaN	NaN	NaN
+-9	NaN	NaN	NaN	NaN	NaN	NaN
+-89	83	NaN	NaN	NaN	NaN	NaN
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						

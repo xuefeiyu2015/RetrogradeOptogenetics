@@ -1,0 +1,39 @@
+PSTHpath='/Users/yux8/Desktop/DataSetForRetrogradeOptogenetics/Figure3EPSTH_threetypes_targetonset.txt';
+PSTHData = importdata(PSTHpath);
+psth = PSTHData.data;% Time, MeanFastExc,MeanSlowExc,MeanInh,SemFastExc,SemSlowExc,SemInh
+time = psth(:,1);
+
+%Set up figures
+name='PSTH_FEFThreeFunctionalTypes';
+figure()
+set(gcf,'color','w');
+set(gcf,'Position', [120,100, 600,300]);
+set(gcf,'Name',name)
+
+
+
+
+for i = 1:3
+      
+      subplot(3,2,(i-1)*2+1)
+        shadedErrorBar(time,psth(:,1+i),psth(:,4+i),'lineprops','k','transparent',1,'patchSaturation',0.3)
+        set(findall(gca, 'Type', 'Line'),'LineWidth',0.5);
+        
+       title()
+        
+      
+ end
+
+   
+
+     
+       set(gca,'LineWidth',0.5,'FontSize',5,'FontWeight','Bold');
+        xlabel('Time from Opto onset(ms)');
+        ylabel('Normalized Responses');
+
+
+box off
+
+
+
+
